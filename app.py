@@ -1,4 +1,4 @@
-mport json
+import json
 import urllib.parse
 import boto3
 import gzip
